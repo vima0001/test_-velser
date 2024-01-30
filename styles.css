@@ -1,9 +1,12 @@
-h1{
-    color: aqua;
+h1 {
+  color: aqua;
 }
-p{
-    color:beige;
+p {
+  color: beige;
 }
-body{
-    background-color: blue;
+body {
+  background-color: blue;
+}
+header {
+  background-color: black;
 }
